@@ -4,11 +4,9 @@
   "name": "KONGA PROJECT!",
   "url": "https://www.konga.com/",
   "tests": [{
-    "id": "672e5e85-d6d8-4161-99d5-9115a40fc5d7",
-    "name": "Untitled",
-    "commands": []
-  }, {
-    "id": "3b20ea6a-0a89-4d8b-8a69-7b2d83901ab0",
+  
+}, {
+   "id": "3b20ea6a-0a89-4d8b-8a69-7b2d83901ab0",
     "name": "WRONG CARD NO",
     "commands": [{
       "id": "46ed2165-d196-49d4-a45c-3ff756442616",
@@ -17,14 +15,16 @@
       "target": "https://www.konga.com/",
       "targets": [],
       "value": ""
-    }, {
+    
+}, { Adjusting screen size
       "id": "c6d2532a-86d4-459e-9902-fd02cd8ced46",
       "comment": "",
       "command": "setWindowSize",
       "target": "1295x687",
       "targets": [],
       "value": ""
-    }, {
+    
+}, {
       "id": "d512b2df-e3ba-4fb1-aa81-2e866f840a7c",
       "comment": "",
       "command": "mouseOver",
@@ -36,7 +36,8 @@
         ["xpath=//div[3]/nav/div/a/div/span/img", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "6ab364aa-a42f-4513-b766-4421597fde88",
       "comment": "",
       "command": "mouseOut",
@@ -48,7 +49,8 @@
         ["xpath=//div[3]/nav/div/a/div/span/img", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "6e5a5b5a-a981-4a09-9695-8c525cc3284d",
       "comment": "",
       "command": "click",
@@ -62,7 +64,8 @@
         ["xpath=//div[3]/div[2]/div/a[2]", "xpath:position"]
       ],
       "value": ""
-    }, {
+    
+}, {
       "id": "7c4f67d7-a7db-460b-aa3b-c8dc72781ba7",
       "comment": "",
       "command": "click",
@@ -74,7 +77,8 @@
         ["xpath=//span[contains(.,'Computers and Accessories')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+  
+}, {
       "id": "06318f0f-5f38-4867-8486-ada7316aad06",
       "comment": "",
       "command": "mouseOver",
@@ -132,14 +136,16 @@
         ["xpath=//span[contains(.,'Apple MacBooks')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "d00ea01f-1261-4131-ad3b-83c68527c1c6",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
       "targets": [],
       "value": ""
-    }, {
+  
+}, {
       "id": "12016114-b015-4048-a381-89ada84e6aaa",
       "comment": "",
       "command": "click",
@@ -151,14 +157,16 @@
         ["xpath=//li[3]/article/div[2]/form/div/button", "xpath:position"]
       ],
       "value": ""
-    }, {
+  
+}, {
       "id": "2d2f1ae5-8861-4ee5-822d-a0a4ea776aa0",
       "comment": "",
       "command": "runScript",
       "target": "window.scrollTo(0,0)",
       "targets": [],
       "value": ""
-    }, {
+   
+}, {
       "id": "e19d3903-3b9e-49d9-bb73-1fdff7a511d3",
       "comment": "",
       "command": "mouseOver",
@@ -170,7 +178,8 @@
         ["xpath=//li[3]/article/div[2]/form/div/button", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "cb35b9bf-0cbf-4477-8948-f3cc21dc9c76",
       "comment": "",
       "command": "mouseOut",
@@ -182,7 +191,8 @@
         ["xpath=//li[3]/article/div[2]/form/div/button", "xpath:position"]
       ],
       "value": ""
-    }, {
+    
+}, {
       "id": "23284326-8750-4f83-ac42-531e8dd854dc",
       "comment": "",
       "command": "click",
@@ -197,7 +207,8 @@
         ["xpath=//a[contains(.,'Proceed to Checkout')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+    
+}, {
       "id": "efe78ecc-8b04-491b-af54-dda50e1089d0",
       "comment": "",
       "command": "runScript",
@@ -211,7 +222,8 @@
       "target": "window.scrollTo(0,0)",
       "targets": [],
       "value": ""
-    }, {
+   
+}, {
       "id": "26d24c2e-f477-4629-8a99-a81ae983dfbe",
       "comment": "",
       "command": "click",
@@ -223,7 +235,8 @@
         ["xpath=//span/input", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "9a0a4a3d-fd92-4006-87d0-bedfb46ba369",
       "comment": "",
       "command": "click",
@@ -246,7 +259,8 @@
         ["index=14"]
       ],
       "value": ""
-    }, {
+    
+}, {
       "id": "fd263fab-1639-444a-bbaf-b0ce605570f5",
       "comment": "",
       "command": "click",
@@ -258,7 +272,8 @@
         ["xpath=//span[contains(.,'Card')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "f1b34932-99f8-4272-8fb9-9d4320ef7290",
       "comment": "",
       "command": "click",
@@ -271,7 +286,8 @@
         ["xpath=//input", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "3f601eb3-713c-4a74-9300-a6c6a8eececb",
       "comment": "",
       "command": "type",
@@ -284,7 +300,8 @@
         ["xpath=//input", "xpath:position"]
       ],
       "value": "5061 0411 1916 5251 97"
-    }, {
+   
+}, {
       "id": "3a3c7c50-e7e0-4791-9409-5a0cc227931e",
       "comment": "",
       "command": "click",
@@ -310,7 +327,8 @@
         ["xpath=//div[2]/div[2]/input", "xpath:position"]
       ],
       "value": "12/26"
-    }, {
+    
+}, {
       "id": "337d0732-cc8c-436c-a789-b1907346d9f0",
       "comment": "",
       "command": "click",
@@ -338,7 +356,8 @@
         ["xpath=//div[3]/div[2]/input", "xpath:position"]
       ],
       "value": "138"
-    }, {
+   
+}, {
       "id": "e24f0e08-8f77-4f60-a130-fc3cbf7f1bac",
       "comment": "",
       "command": "click",
@@ -416,7 +435,8 @@
         ["xpath=//button[contains(.,'4')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+  
+}, {
       "id": "ac3b1092-0ebd-40e1-8e50-a344c37a1971",
       "comment": "",
       "command": "click",
@@ -440,7 +460,8 @@
         ["xpath=//div[3]/div/div", "xpath:position"]
       ],
       "value": ""
-    }, {
+   
+}, {
       "id": "5a54de0f-41e0-47da-9bbd-3e2394d5a9ad",
       "comment": "",
       "command": "click",
@@ -452,7 +473,8 @@
         ["xpath=//aside[contains(.,'×')]", "xpath:innerText"]
       ],
       "value": ""
-    }, {
+    
+}, {
       "id": "81e5618b-7d4a-4548-84ad-95950154b61d",
       "comment": "",
       "command": "close",
@@ -461,7 +483,8 @@
       "value": ""
     }]
   }],
-  "suites": [{
+ 
+"suites": [{
     "id": "3a3128d0-719e-429f-9df1-29e88b43b17c",
     "name": "Default Suite",
     "persistSession": false,
